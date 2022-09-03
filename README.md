@@ -1,3 +1,3 @@
 # Chappa-Frontend
-CSharp/.Net Chat App Frontend
+CSharp/C# Chat App Frontend
 
